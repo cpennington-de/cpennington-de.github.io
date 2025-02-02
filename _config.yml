@@ -1,16 +1,16 @@
 # Site settings
-title: "Colin Pennington"                         # The title of your portfolio
-description: "Programmer."  # A short bio or tagline
-baseurl: ""                                # Leave empty if deploying to the root domain
-url: "https://cpennington-de.github.io"      # Your site's URL (change "yourusername" accordingly)
+title: "Colin Pennington"                         
+description: "Programmer."  
+baseurl: ""                                
+url: "https://cpennington-de.github.io"      
 
 # Author details
 author:
-  name: "Colin Pennington"                        # Your full name
-  email: "colinpennington@cox.net"           # Your contact email
-  bio: "Working on mainframe disaster recovery and mondernization since 2021."  # A few sentences about you
-  location: "Bentonville, Arkansas"                # Your location (optional)
-#  image: "/assets/images/profile.jpg"      # Path to your profile picture (optional)
+  name: "Colin Pennington"                      
+  email: "colinpennington@cox.net"          
+  bio: "Working on mainframe disaster recovery and mondernization since 2021."  
+  location: "Bentonville, Arkansas"                
+#  image: "/assets/images/profile.jpg"      
 
 # Social links (customize as needed)
 social:
@@ -18,14 +18,13 @@ social:
   linkedin: "www.linkedin.com/in/colin-blake-pennington"
 
 # Jekyll & Build settings
-markdown: kramdown                         # Markdown engine (default for GitHub Pages)
-theme: minima                              # A simple, clean theme provided by Jekyll (you can change this)
+markdown: kramdown                         
+theme: minima                              
 plugins:
-  - jekyll-feed                           # RSS feed generation
-  - jekyll-seo-tag                        # SEO tags for better search engine visibility
+  - jekyll-feed                           
+  - jekyll-seo-tag                      
 
-# Navigation (optional – depends on your theme)
-# Some themes support a navigation menu defined here:
+
 nav:
   - title: "About"
     url: /about
