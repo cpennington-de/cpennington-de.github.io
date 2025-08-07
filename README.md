@@ -36,8 +36,8 @@ An application utilizing Sphinx for offline speech recognition.
 
 I'm always eager to connect with other professionals, collaborate on exciting projects, and learn from the tech community. Feel free to reach out if you're interested in working together or discussing tech trends!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/colin-blake-pennington/)
-- **Email**: [your.email@example.com](mailto:colinpennington@cox.net)
+- **LinkedIn**: [My LinkedIn Profile!](https://www.linkedin.com/in/colin-blake-pennington/)
+- **Email**: [Email Me!](mailto:colinpennington@cox.net)
 
 ## 🌟 Skills
 
