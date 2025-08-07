@@ -20,13 +20,13 @@ A web platform that allows users to search for colleges, compare programs, and c
 - **Technologies**: HTML, CSS, JavaScript, React
 - **Highlights**: User-friendly UI, dynamic search functionality, and responsive design.
 
-### 3. **GitHub Actions Workflow**
+### 2. **GitHub Actions Workflow**
 A simple CI/CD pipeline using GitHub Actions to automate testing and deployment.
 
 - **Technologies**: YAML, GitHub Actions
 - **Highlights**: Automating code quality checks and ensuring smooth deployments.
 
-### 4. **Speech Recognition Tool**
+### 3. **Speech Recognition Tool**
 An application utilizing Sphinx for offline speech recognition.
 
 - **Technologies**: Python, CMU Sphinx
@@ -36,12 +36,12 @@ An application utilizing Sphinx for offline speech recognition.
 
 I'm always eager to connect with other professionals, collaborate on exciting projects, and learn from the tech community. Feel free to reach out if you're interested in working together or discussing tech trends!
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/colin-blake-pennington/)
+- **Email**: [your.email@example.com](mailto:colinpennington@cox.net)
 
 ## 🌟 Skills
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Programming Languages**: Python, JavaScript, HTML, CSS, JCL, Shell
 - **Frameworks/Libraries**: React, Pandas, Scikit-learn
 - **Tools**: Git, GitHub Actions, CMU Sphinx
 - **Areas of Expertise**: Information Systems, Software Engineering, Cybersecurity, Web Development
