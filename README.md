@@ -1,10 +1,12 @@
 # My Portfolio
 
-Welcome to my GitHub portfolio! Here you'll find projects that showcase my skills and experience in **Information Systems** and **Software Engineering**. This repository includes work from school, professional projects, and personal endeavors that reflect my growth and passion for technology.
+Welcome to my GitHub portfolio! Here you'll find projects that showcase my skills and experience working on various **Information Systems** and **Software Engineering** projects. This repository includes work from school, professional projects, and code I find useful for various personal projects.
 
 ## 💡 About Me
 
-I'm passionate about leveraging technology to solve real-world problems, improve systems, and develop innovative solutions. My interests span from web development to cybersecurity, and I'm constantly exploring new tools and methodologies to enhance my skillset.
+In my professional career I work as a solution delievery architect for various mainframe z/OS systems, working operating, improving, and creating soltions to help with my clients disaster recovery drills. Skillsets in this area primarly involve work tape and d.a.s.d. storage devices and coding languages such as JCL, Python, Shell, and Rexx. 
+
+In my recent graduate studies I learned various skills and concepts in the information systems sphere. My studies there focused primarly on data analytics, machnine learning, professional coding techniques, frameworks such as agile, Azure fundamentals, and various other areas in the industry.
 
 ## 📂 Notable Projects
 
@@ -44,7 +46,7 @@ I'm always eager to connect with other professionals, collaborate on exciting pr
 - **Programming Languages**: Python, JavaScript, HTML, CSS, JCL, Shell
 - **Frameworks/Libraries**: React, Pandas, Scikit-learn
 - **Tools**: Git, GitHub Actions, CMU Sphinx
-- **Areas of Expertise**: Information Systems, Software Engineering, Cybersecurity, Web Development
+- **Areas of Expertise**: Information Systems, Software Engineering, Cybersecurity, IBM Mainframe
 
 ## 🌍 Explore More
 
